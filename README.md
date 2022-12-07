@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devbiel
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning  JavaScript, HTML, CSS, Typescript e React
+- 🌱 I’m currently learning  Javascript e TypeScript - front-end e back-end (Full Stack) - Node, Express, noSQL, React, hooks, Redux, Design Patterns
 - 💞️ I'm looking to collaborate on in an IT internship ...
 - 📫 How to reach me: devbiel@protonmail.com
 
